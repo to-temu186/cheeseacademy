@@ -1,0 +1,55 @@
+/* ここから下に記載していく */
+body {
+    width: 1200px;
+    margin: 0 auto
+}
+
+.header-logo {
+    float: left;
+    padding: 25px 50px;
+}
+
+.header-list {
+    display: flex;
+    padding: 50px 50px
+}
+
+.header-title1 {
+    padding: 0px 50px
+    font-size: 21px
+}
+
+.header-title2 {
+    padding: 0px 50px
+}
+
+.header-title3 {
+    padding: 0px 50px
+}
+
+.header-title4 {
+    padding: 0px 50px
+}
+
+.header-title5 {
+    padding: 0px 50px
+}
+
+.main-title {
+    padding-top: 
+}
+
+.aboutimage {
+    padding-top: 80px;
+}
+
+.course {
+    padding-top: 60px
+}
+
+.sub-title1 {
+    text-align: center;
+    padding: 60px 0 30px 0 
+}
+
+
