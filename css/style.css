@@ -1,0 +1,176 @@
+/* ここから下に記載していく */
+body {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.header-logo {
+    float: left;
+    padding: 25px 50px;
+}
+
+.header-list {
+    display: flex;
+    padding: 50px 50px;
+}
+
+.header-title1 {
+    padding: 0px 50px;
+    font-size: 15px;
+}
+
+.header-title2 {
+    padding: 0px 50px;
+    font-size: 15px;
+}
+
+.header-title3 {
+    padding: 0px 50px;
+    font-size: 15px;
+}
+
+.header-title4 {
+    padding: 0px 50px;
+    font-size: 15px;
+}
+
+.header-title5 {
+    padding: 0px 50px;
+    font-size: 15px;
+}
+
+.aboutimage {
+    padding-top: 80px;
+}
+
+.course {
+    padding-top: 60px;
+}
+
+.sub-title1 {
+    text-align: center;
+    padding: 60px 0 30px 0;
+    color:#ffd61a
+}
+
+.main-title {
+    text-align: center;
+}
+
+.course {
+    text-align: center;
+}
+
+.sub-title2 {
+    padding-bottom: 30px;
+    color: #ffd61a
+}
+
+.course1 {
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+    width: 1200px;
+}
+
+.aboutimage {
+    width:100% ;
+}
+
+.box1 {
+    padding: 200px 200px 50px 20px;
+}
+
+.course2 {
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+    width: 1200px;
+}
+
+.courseimage {
+    width: 100%
+}
+
+.course3 {
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+    width: 1200px;
+}
+
+.tastingimage {
+    width: 100%;
+}
+
+.news {
+    text-align: center;
+    padding-top: 60px;
+    color: #ffd61a
+}
+
+.pizzaimage {
+    padding: 20px 0px 50px 50px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: #707070;
+    font: size 30px;
+    color:white;
+    padding: 30px 0px 30px 0px;
+}
+
+.button01 {
+  display: flex;
+  justify-content: center;
+  background-color: #ffd61a;
+  color: #fff;
+  padding: 10px 30px 10px 0px;
+  text-decoration: none;
+  font-size: 1em;
+}
+.button01:hover {
+  color: #fff;
+  opacity: 0.8;
+}
+
+iframe {
+    border: 1px solid black;
+    width: 100%;
+    padding-top: 20px
+    /* takes precedence over the width set with the HTML width attribute */
+}
+
+h3{
+    text-align: center;
+
+    padding-top: 60px
+}
+
+.contact-form {
+    margin:0 auto;
+}
+
+input,textarea {
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 18px;
+    border: 1px solid #dee7ec;
+}
+
+.contact-submit {
+    background: #dee7ec;
+    color: #889eab;
+    margin-top: 30px
+
+}
+
+.contact-form-text {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
